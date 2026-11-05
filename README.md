@@ -17,7 +17,7 @@ Make sure you have Python 3.8+ installed on your system.
 1. Clone this repository:
    ```bash
    git clone https://github.com
-   cd simple-web-scraper
+   cd por-que
    ```
 2. Install the required dependencies:
    ```bash
