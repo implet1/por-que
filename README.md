@@ -1,6 +1,6 @@
 # por-que
 
-A lightweight, automated Python script designed to scrape text, links, and structured headlines from public web pages. This project demonstrates foundational web scraping techniques using modern Python libraries, complete with built-in error handling and structured data exporting.
+This project is my personal test for web scraping using Python. Includes complete with built-in error handling and structured data exporting.
 
 ## ✨ Features
 * **Targeted Scraping:** Extracts page titles, main headings (H1-H3), and all hyperlinks.
