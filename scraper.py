@@ -67,7 +67,7 @@ def save_to_file(title, headings, links, filename="scraped_data.txt"):
                 f.write(f"{h}\n")
                 
             f.write(f"\n--- LINKS ({len(links)}) ---\n")
-            for l in links[:50]: # Cap at 50 links for neatness
+            for l in links[:100]: # Suggested: 50 links for neatness
                 f.write(f"{l}\n")
                 
         print(f"[SUCCESS] Data safely exported to '{filename}'")
